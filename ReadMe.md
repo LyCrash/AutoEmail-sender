@@ -1,0 +1,2 @@
+# AutoEmail-sender
+An example of Python Task Automatization: send personalized emails from a Gmail account to multiple recipients simultaneously, with each email tailored based on recipient-specific information extracted from a CSV file.
